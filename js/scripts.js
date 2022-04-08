@@ -82,7 +82,7 @@ let progressBar = document.querySelector(".circular-progress");
 let valueContainer = document.querySelector(".value-container");
 // AQUI SE CAMBIA EL PORCENTAJE
 let progressValue = 0;
-let progressEndValue = 2;
+let progressEndValue = 10;
 let speed = 50;
 
 let progress = setInterval(() => {
